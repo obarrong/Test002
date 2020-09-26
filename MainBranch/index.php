@@ -10,6 +10,7 @@ and open the template in the editor.
         <title>Branch: Avance01</title>
     </head>
     <body>
+        Revisión #02<br/>
         <?php
         phpinfo();
         ?>
